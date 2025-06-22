@@ -1,0 +1,502 @@
+[
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "SmileCare Dental",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 120,
+    "Phone Number": "9934257689",
+    "Distance (km)": 12
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "Trendy Tresses Salon",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 45,
+    "Phone Number": "7479994437",
+    "Distance (km)": 9
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "ColorWave Painting",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 250,
+    "Phone Number": "9934257689",
+    "Distance (km)": 35
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "QuickFix Plumbing",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": true,
+    "Price": 80,
+    "Phone Number": "7479994437",
+    "Distance (km)": 20
+  },
+  {
+    "Provider Type": "Electrician",
+    "Provider Name": "SparkSafe Electrical",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 100,
+    "Phone Number": "9934257689",
+    "Distance (km)": 5
+  },
+  {
+    "Provider Type": "Landscaper",
+    "Provider Name": "GreenScape Solutions",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 150,
+    "Phone Number": "7479994437",
+    "Distance (km)": 42
+  },
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "PearlWhite Clinic",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 130,
+    "Phone Number": "9934257689",
+    "Distance (km)": 28
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "StyleVibe Studio",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 50,
+    "Phone Number": "7479994437",
+    "Distance (km)": 15
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "Artisan Brushworks",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 220,
+    "Phone Number": "9934257689",
+    "Distance (km)": 31
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "FlowRite Services",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 90,
+    "Phone Number": "7479994437",
+    "Distance (km)": 7
+  },
+  {
+    "Provider Type": "Carpenter",
+    "Provider Name": "WoodCraft Pros",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 110,
+    "Phone Number": "9934257689",
+    "Distance (km)": 24
+  },
+  {
+    "Provider Type": "Cleaner",
+    "Provider Name": "Spotless Homes",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 60,
+    "Phone Number": "7479994437",
+    "Distance (km)": 11
+  },
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "HealthySmile Dental",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 125,
+    "Phone Number": "9934257689",
+    "Distance (km)": 48
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "Chic Cuts",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 40,
+    "Phone Number": "7479994437",
+    "Distance (km)": 17
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "PrimeCoat Painting",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 240,
+    "Phone Number": "9934257689",
+    "Distance (km)": 29
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "DrainBusters",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 85,
+    "Phone Number": "7479994437",
+    "Distance (km)": 4
+  },
+  {
+    "Provider Type": "Electrician",
+    "Provider Name": "LightFix Electric",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 95,
+    "Phone Number": "9934257689",
+    "Distance (km)": 40
+  },
+  {
+    "Provider Type": "Landscaper",
+    "Provider Name": "LushLawn Care",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 140,
+    "Phone Number": "7479994437",
+    "Distance (km)": 21
+  },
+  {
+    "Provider Type": "Carpenter",
+    "Provider Name": "TimberWorks",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 115,
+    "Phone Number": "9934257689",
+    "Distance (km)": 10
+  },
+  {
+    "Provider Type": "Cleaner",
+    "Provider Name": "ShineBright Cleaning",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 65,
+    "Phone Number": "7479994437",
+    "Distance (km)": 44
+  },
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "BrightTeeth Dental",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": false,
+    "Price": 135,
+    "Phone Number": "9934257689",
+    "Distance (km)": 33
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "Glamour Locks",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": true,
+    "Price": 55,
+    "Phone Number": "7479994437",
+    "Distance (km)": 8
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "TrueHue Painting",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 230,
+    "Phone Number": "9934257689",
+    "Distance (km)": 46
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "PipePros Plumbing",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 75,
+    "Phone Number": "7479994437",
+    "Distance (km)": 19
+  },
+  {
+    "Provider Type": "Electrician",
+    "Provider Name": "PowerFlow Electric",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 105,
+    "Phone Number": "9934257689",
+    "Distance (km)": 13
+  },
+  {
+    "Provider Type": "Landscaper",
+    "Provider Name": "EverGreen Gardens",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 145,
+    "Phone Number": "7479994437",
+    "Distance (km)": 37
+  },
+  {
+    "Provider Type": "Carpenter",
+    "Provider Name": "SolidBuild Carpentry",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 120,
+    "Phone Number": "9934257689",
+    "Distance (km)": 25
+  },
+  {
+    "Provider Type": "Cleaner",
+    "Provider Name": "Pristine Spaces",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 70,
+    "Phone Number": "7479994437",
+    "Distance (km)": 6
+  },
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "Family Dental Hub",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 140,
+    "Phone Number": "9934257689",
+    "Distance (km)": 41
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "Snip & Style Salon",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 48,
+    "Phone Number": "7479994437",
+    "Distance (km)": 14
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "MasterStroke Paints",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 245,
+    "Phone Number": "9934257689",
+    "Distance (km)": 30
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "ClearFlow Plumbing",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 88,
+    "Phone Number": "7479994437",
+    "Distance (km)": 3
+  },
+  {
+    "Provider Type": "Electrician",
+    "Provider Name": "BrightWire Services",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 98,
+    "Phone Number": "9934257689",
+    "Distance (km)": 47
+  },
+  {
+    "Provider Type": "Landscaper",
+    "Provider Name": "Nature\u2019s Touch",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 155,
+    "Phone Number": "7479994437",
+    "Distance (km)": 22
+  },
+  {
+    "Provider Type": "Carpenter",
+    "Provider Name": "Frame & Finish",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 108,
+    "Phone Number": "9934257689",
+    "Distance (km)": 16
+  },
+  {
+    "Provider Type": "Cleaner",
+    "Provider Name": "Crystal Clean",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 62,
+    "Phone Number": "7479994437",
+    "Distance (km)": 38
+  },
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "SmileWorks Clinic",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": false,
+    "Price": 128,
+    "Phone Number": "9934257689",
+    "Distance (km)": 27
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "FreshLook Studio",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": true,
+    "Price": 52,
+    "Phone Number": "7479994437",
+    "Distance (km)": 11
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "ColorCraft Co.",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 235,
+    "Phone Number": "9934257689",
+    "Distance (km)": 43
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "LeakStop Plumbing",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 82,
+    "Phone Number": "7479994437",
+    "Distance (km)": 18
+  },
+  {
+    "Provider Type": "Electrician",
+    "Provider Name": "LiveWire Electric",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 102,
+    "Phone Number": "9934257689",
+    "Distance (km)": 34
+  },
+  {
+    "Provider Type": "Landscaper",
+    "Provider Name": "Bloom & Grow",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 148,
+    "Phone Number": "7479994437",
+    "Distance (km)": 7
+  },
+  {
+    "Provider Type": "Carpenter",
+    "Provider Name": "TimberCraft",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 112,
+    "Phone Number": "9934257689",
+    "Distance (km)": 45
+  },
+  {
+    "Provider Type": "Cleaner",
+    "Provider Name": "Neat & Tidy",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 68,
+    "Phone Number": "7479994437",
+    "Distance (km)": 26
+  },
+  {
+    "Provider Type": "Dentist",
+    "Provider Name": "Elite Dental Care",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 133,
+    "Phone Number": "9934257689",
+    "Distance (km)": 39
+  },
+  {
+    "Provider Type": "Hair Stylist",
+    "Provider Name": "Posh Cuts",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": true,
+    "Price": 47,
+    "Phone Number": "7479994437",
+    "Distance (km)": 12
+  },
+  {
+    "Provider Type": "Painter",
+    "Provider Name": "SmoothFinish Paints",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 225,
+    "Phone Number": "9934257689",
+    "Distance (km)": 32
+  },
+  {
+    "Provider Type": "Plumber",
+    "Provider Name": "SteadyFlow Services",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": true,
+    "Price": 87,
+    "Phone Number": "7479994437",
+    "Distance (km)": 5
+  },
+  {
+    "Provider Type": "Electrician",
+    "Provider Name": "CircuitMasters",
+    "Availability 10:00-11:00": true,
+    "Availability 3:00-4:00": false,
+    "Availability 7:00-8:00": false,
+    "Price": 97,
+    "Phone Number": "9934257689",
+    "Distance (km)": 49
+  },
+  {
+    "Provider Type": "Landscaper",
+    "Provider Name": "Verde Landscapes",
+    "Availability 10:00-11:00": false,
+    "Availability 3:00-4:00": true,
+    "Availability 7:00-8:00": false,
+    "Price": 142,
+    "Phone Number": "7479994437",
+    "Distance (km)": 23
+  }
+]

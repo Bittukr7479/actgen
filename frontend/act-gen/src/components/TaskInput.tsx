@@ -1,17 +1,18 @@
 import { useState } from 'react';
-import { TextField, Button, Box, Paper } from '@mui/material';
+import { TextField, Button, Box, Paper, CircularProgress } from '@mui/material';
 import SendIcon from '@mui/icons-material/Send';
 
 interface TaskInputProps {
-  onSubmit: (task: string) => void;
+  onSubmit: (task: string) => Promise<void>;
+  isSubmitting?: boolean;
 }
 
-export default function TaskInput({ onSubmit }: TaskInputProps) {
+export default function TaskInput({ onSubmit, isSubmitting = false }: TaskInputProps) {
   const [task, setTask] = useState('');
 
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     if (task.trim()) {
-      onSubmit(task);
+      await onSubmit(task);
       setTask('');
     }
   };
@@ -25,16 +26,17 @@ export default function TaskInput({ onSubmit }: TaskInputProps) {
           placeholder="Enter your task (e.g., 'Book a cab tomorrow at 10 AM and remind me')"
           value={task}
           onChange={(e) => setTask(e.target.value)}
-          onKeyPress={(e) => e.key === 'Enter' && handleSubmit()}
+          onKeyPress={(e) => e.key === 'Enter' && !isSubmitting && handleSubmit()}
+          disabled={isSubmitting}
         />
         <Button
           variant="contained"
           color="primary"
-          endIcon={<SendIcon />}
+          endIcon={isSubmitting ? <CircularProgress size={20} color="inherit" /> : <SendIcon />}
           onClick={handleSubmit}
-          disabled={!task.trim()}
+          disabled={!task.trim() || isSubmitting}
         >
-          Submit
+          {isSubmitting ? 'Submitting...' : 'Submit'}
         </Button>
       </Box>
     </Paper>
